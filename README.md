@@ -1,0 +1,2 @@
+# DjangoTesting
+Playing with django
